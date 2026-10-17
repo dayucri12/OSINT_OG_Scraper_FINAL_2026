@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://www.paypal.com/es/home",
+    "fecha_analisis": "2026-10-07",
+    "status_code": 200,
+    "title": "Enviar Dinero | Cartera Digital y Gestión de Dinero | PayPal ES",
+    "meta_description": "PayPal ofrece servicios financieros para enviar y recibir dinero desde tu cartera digital, todo lo que necesitas para gestionar tu dinero.",
+    "meta_keywords": null,
+    "og_title": "Enviar Dinero | Cartera Digital y Gestión de Dinero | PayPal ES",
+    "og_image": "https://www.paypalobjects.com/marketing/web23/uk/en/ppe/homepage-consumer/meta_size-all.jpg",
+    "og_url": "https://www.paypal.com/es/home",
+    "error": null
+  },
+  {
+    "url": "https://es.wikipedia.org/wiki/Inteligencia_artificial",
+    "fecha_analisis": "2026-10-07",
+    "status_code": 200,
+    "title": "Inteligencia artificial - Wikipedia, la enciclopedia libre",
+    "meta_description": null,
+    "meta_keywords": null,
+    "og_title": "Inteligencia artificial - Wikipedia, la enciclopedia libre",
+    "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "og_url": null,
+    "error": null
+  },
+  {
+    "url": "https://github.com/dayucri12",
+    "fecha_analisis": "2026-10-07",
+    "status_code": 200,
+    "title": "dayucri12 · GitHub",
+    "meta_description": "dayucri12 has 4 repositories available. Follow their code on GitHub.",
+    "meta_keywords": null,
+    "og_title": "dayucri12 - Overview",
+    "og_image": "https://avatars.githubusercontent.com/u/289460356?v=4?s=400",
+    "og_url": "https://github.com/dayucri12",
+    "error": null
+  },
+  {
+    "url": "https://httpstat.us/404",
+    "fecha_analisis": "2026-10-07",
+    "status_code": null,
+    "title": null,
+    "meta_description": null,
+    "meta_keywords": null,
+    "og_title": null,
+    "og_image": null,
+    "og_url": null,
+    "error": "URLError: HTTP Error 404: Not Found"
+  }
+]
